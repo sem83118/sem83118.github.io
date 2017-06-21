@@ -1,0 +1,73 @@
+.bigbox{
+height: 750px;
+background:goldenrod;
+border: 4px solid black;
+}
+
+.headimg{
+height: 100px;
+background: red;
+border: 4px solid black;
+}
+
+.kjimg{
+max-height: 100%;
+
+}
+
+.headbox{
+height: 100px;
+background: cornflowerblue;
+border: 4px solid black;
+}
+
+.headboxh1{
+text-align:center;
+}
+
+.leftmenu{
+height: 500px;
+background: purple;
+border: 4px solid black;
+
+}
+
+.leftmenuli{
+  font-size: 40px;
+  display:block;
+  color: black;
+  
+}
+
+.bodycontent{
+height: 500px;
+background:palevioletred;
+border: 4px solid black;
+overflow-y: auto;
+
+
+}
+
+.footbox{
+height: 150px;
+background:wheat;
+border: 4px solid black;
+
+}
+
+.hplinkcolor{
+  font-family:Microsoft JhengHei;
+  color:black
+}
+
+.leftdogimg{
+max-height: 240px;
+height: 360px;
+}
+
+.rightdogimg{
+
+max-height: 240px;
+height: 360px;
+}
+
